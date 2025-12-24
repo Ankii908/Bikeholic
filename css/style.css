@@ -47,8 +47,7 @@
 }
 
 .content_header{
-    margin-top: 230px;
-    margin-left: 50px;
+    margin-top: 175px;
 }
 
 
@@ -57,28 +56,21 @@
  text-decoration: none;
     list-style: none;
     float: left;
+    
 }
 
 
 .content_logo{
     height:135px;
     width: 135px;
-    float: left;
 }
 
 
-table{
-  
-    width: 585px;
+.login_details{
+    width: 0px;
+    margin-top: 150px;
+    margin-left: 30px;
     float: left;
-    margin-left: 215px;
-    margin-top: 160px;
-}
-
-/* Reduce vertical gap between rows */
-table td {
-  padding: 5px 10px;   /* reduce this value if needed */
-  vertical-align: middle;
 }
 
 /* Reduce input height spacing */
@@ -103,7 +95,7 @@ table button{
 
 .forgot-cell {
   text-align: left;   /* aligns link to left */
-  padding-left: 679px;
+  padding-left: 650px;
 }
 
 .forgot-link {

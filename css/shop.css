@@ -6,7 +6,7 @@
 
 .header_block td{
     text-align: center;
-    padding: 40px 125px 40px 125px ;
+    padding: 40px 40px 40px 40px ;
     margin: auto;
 }
 
@@ -49,13 +49,15 @@
 
 .price_tag_set{
     margin-top: 8px !important;
+    margin-left: 135px;
+
 }
 
 .price_tag_set td{
   border: 1px solid black;
-    padding-left: 58px;
+    padding-left: 100px;
     padding-bottom: 10px;
-    padding-right: 51px;
+    padding-right: 100px;
     padding-top: 10px;
      
 }
