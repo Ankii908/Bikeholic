@@ -1,0 +1,26 @@
+
+
+.info_section{
+    margin: -124px;
+    margin-top: 40px;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+}
+
+
+.form_section{
+    align-items: center;
+    margin-left: 715px;
+    margin-top: 145px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.btn_submit{
+    border: 2px;
+    margin-left: 0px !important;
+    background-color: #4399ff;
+    margin-top: 10px;
+}

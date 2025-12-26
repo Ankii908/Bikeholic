@@ -1,0 +1,69 @@
+.header_block{
+    margin: auto !important;
+    width: 585px !important;
+}
+
+
+.header_block td{
+    text-align: center;
+    padding: 40px 40px 40px 40px ;
+    margin: auto;
+}
+
+
+.price_tag{
+  margin:  auto !important;   /* centers under image */
+    width: max-content;
+   
+}
+
+.price_tag td{
+    border: 1px solid black;
+    padding-left: 58px;
+    padding-bottom: 10px;
+    padding-right: 51px;
+    padding-top: 10px;
+}
+
+.bike_img{
+    height: 255px;
+    width: 355px;
+}
+
+.bike_img_set{
+    height: 255px;
+    width: 740px;
+}
+
+.borders{
+    border: 5px solid black;
+    text-align: center;
+}
+
+
+.price_tag td:last-child {
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+
+.price_tag_set{
+    margin-top: 8px !important;
+    margin-left: 135px;
+
+}
+
+.price_tag_set td{
+  border: 1px solid black;
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-right: 100px;
+    padding-top: 10px;
+     
+}
+
+.price_tag_set td:last-child {
+    background: black;
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,104 @@
+.logo_details{
+    height:150px;
+    width: 155px;
+    float: left;
+}
+
+.header_outer{
+    height: 200px;
+    width: 1200px;
+    float: left;
+}
+
+
+
+
+.header_menu,
+.header_menu li{
+   float: left;
+    text-decoration: none;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-left: 18px;
+    background-color: #cad9d9;
+    border-radius: 35px;
+
+}
+
+.header_menu{
+    background-color: white !important;
+    list-style: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-top: 25px;
+    margin-left: 105px;
+    
+    
+}
+
+.header_menu,
+.header_menu a{
+     text-decoration: none ;
+     font-size: 15px;
+     color: black;
+}
+
+.content_header{
+    margin-top: 175px;
+}
+
+
+.content_header_inner,
+.content_header_inner ul{
+ text-decoration: none;
+    list-style: none;
+    float: left;
+    
+}
+
+
+.content_logo{
+    height:135px;
+    width: 135px;
+}
+
+
+.login_details{
+    width: 0px;
+    margin-top: 150px;
+    margin-left: 30px;
+    float: left;
+}
+
+/* Reduce input height spacing */
+table input {
+  height: 28px;
+  padding: 4px 90px;
+  font-size: 14px;
+}
+
+table label{
+    color: #a79e23;
+    font-size: 45px;
+}
+
+table button{
+    border: 2px;
+    padding:10px 57px;
+    margin-left: 241px;
+    background-color: #4399ff;
+    border-radius: 35px;
+}
+
+.forgot-cell {
+  text-align: left;   /* aligns link to left */
+  padding-left: 650px;
+}
+
+.forgot-link {
+  font-size: 14px;
+}
+
